@@ -1,0 +1,42 @@
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Binod Project\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+\\BUNNY-PC\Users\Bnodp\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Bunny\OneDrive\My Projects\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Bunny\Dropbox\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Bnodp\Desktop\LibraryManagementSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
